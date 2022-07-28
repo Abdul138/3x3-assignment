@@ -8,7 +8,7 @@ void calmDown() {
   textFont(storyfont);
   textAlign(LEFT);
   textSize(35);
-  fill(255,0,0);
+  fill(red);
   text("You try to clear up the misunderstanding, But the man was \nin a hurry and didnt have time to listen to yor explaination so he shot you. \n\n                                      You Died \n\n              Press R to restart from the first page\n\n              Press L to end your adventure", 20,150); 
 
   

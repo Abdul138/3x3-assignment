@@ -16,7 +16,7 @@ void runaway() {
   rect(450,405,325,200,20);
   image(l_arrow,30,400,300,165);
   image(r_arrow,460,400,300,165);
-  fill(255,0,0);
+  fill(red);
   textAlign(CENTER);
   text("Return Home",180,575);
   text("Report To The Police", 610,575);
